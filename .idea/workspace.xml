@@ -5,21 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29e973ab-a713-4e5a-90b1-08806ae0c9e4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SS5_BT.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT1/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT2/QuadraticEquation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT3/StopWatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT4/Fan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BT3_C2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BT3_C2/Stopwatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,21 +33,55 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/OWNER/IdeaProjects/CRUD_Student",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/OWNER/IdeaProjects/SS5_BT&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Application.BT3_C2.Main">
+    <configuration name="BT3_C2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BT3_C2.Main" />
+      <module name="SS5_BT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BT3_C2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BT3.Main" />
+      <module name="SS5_BT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BT3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BT3_C2.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -69,7 +91,10 @@
       <option name="presentableId" value="Default" />
       <updated>1695348576052</updated>
       <workItem from="1695348577053" duration="7817000" />
-      <workItem from="1695600922551" duration="697000" />
+      <workItem from="1695600922551" duration="875000" />
+      <workItem from="1695603752915" duration="253000" />
+      <workItem from="1695605452519" duration="156000" />
+      <workItem from="1695624613094" duration="1729000" />
     </task>
     <servers />
   </component>
